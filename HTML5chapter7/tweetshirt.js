@@ -6,7 +6,7 @@ window.onload = function() {
 
 	// Easter Egg
 	makeImage();
-}
+};
 
 function previewHandler() {
 	var canvas = document.getElementById("tshirtCanvas");
